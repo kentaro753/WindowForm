@@ -1,0 +1,11 @@
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.csproj.AssemblyReference.cache
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.csproj.SuggestedBindingRedirects.cache
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.Properties.Resources.resources
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.csproj.GenerateResource.cache
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.csproj.CoreCompileInputs.cache
+D:\Window Form\Lab01\Baitap2\bin\Debug\Baitap2.exe.config
+D:\Window Form\Lab01\Baitap2\bin\Debug\Baitap2.exe
+D:\Window Form\Lab01\Baitap2\bin\Debug\Baitap2.pdb
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.Form4Operators.resources
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.exe
+D:\Window Form\Lab01\Baitap2\obj\Debug\Baitap2.pdb
