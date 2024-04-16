@@ -1,0 +1,7 @@
+c:\users\105\documents\visual studio 2010\Projects\Lab02\Bai3\bin\Debug\Bai3.exe
+c:\users\105\documents\visual studio 2010\Projects\Lab02\Bai3\bin\Debug\Bai3.pdb
+c:\users\105\documents\visual studio 2010\Projects\Lab02\Bai3\obj\x86\Debug\Bai3.Form1.resources
+c:\users\105\documents\visual studio 2010\Projects\Lab02\Bai3\obj\x86\Debug\Bai3.Properties.Resources.resources
+c:\users\105\documents\visual studio 2010\Projects\Lab02\Bai3\obj\x86\Debug\Bai3.csproj.GenerateResource.Cache
+c:\users\105\documents\visual studio 2010\Projects\Lab02\Bai3\obj\x86\Debug\Bai3.exe
+c:\users\105\documents\visual studio 2010\Projects\Lab02\Bai3\obj\x86\Debug\Bai3.pdb
