@@ -1,0 +1,25 @@
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.frmMDI.resources
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.Properties.Resources.resources
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.csproj.GenerateResource.Cache
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\bin\Debug\MDI Form-Menu-Tabs-List View.exe
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\bin\Debug\MDI Form-Menu-Tabs-List View.pdb
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.exe
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.pdb
+c:\users\105\documents\visual studio 2010\Projects\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.frmLogin.resources
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\bin\Debug\MDI Form-Menu-Tabs-List View.exe.config
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\bin\Debug\MDI Form-Menu-Tabs-List View.exe
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\bin\Debug\MDI Form-Menu-Tabs-List View.pdb
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.csproj.AssemblyReference.cache
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.csproj.SuggestedBindingRedirects.cache
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.frmLogin.resources
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.frmMDI.resources
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.Properties.Resources.resources
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.csproj.GenerateResource.cache
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.csproj.CoreCompileInputs.cache
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.exe
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.pdb
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.frmSolve.resources
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\bin\Debug\ClassLibrary1.dll
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\bin\Debug\ClassLibrary1.pdb
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI Form-Menu-Tabs-List View.csproj.CopyComplete
+D:\Window Form\Lab03\MDI Form-Menu-Tabs-List View\obj\x86\Debug\MDI_Form_Menu_Tabs_List_View.frmDatabase.resources
